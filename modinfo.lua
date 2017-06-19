@@ -1,7 +1,7 @@
-name = "To Do Chores [Forked]"
-description = "Automate gathering, chopping, digging and planting!\n v1.3"
-author = "phate09"
-version = "1.3"
+name = "To Do Chores [Unstable]"
+author = "taichunmin"
+version = "1.4-beta"
+description = "Automate gathering, chopping, digging and planting!\n "..version
 
 forumthread = ""
 
